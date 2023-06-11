@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "faFH2GEK9U2exVIrI+AssZUaT2yx3Kxtj1Q1o1lEUzU=",
+  "Source": "MovieDataBase",
+  "BasePath": "_content/MovieDataBase",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MovieDataBase\\wwwroot",
+      "Source": "MovieDataBase",
+      "ContentRoot": "C:\\Users\\romad\\source\\repos\\MovieDataBase\\MovieDataBase\\wwwroot\\",
+      "BasePath": "_content/MovieDataBase",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\romad\\source\\repos\\MovieDataBase\\MovieDataBase\\wwwroot\\index.html",
+      "SourceId": "MovieDataBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\romad\\source\\repos\\MovieDataBase\\MovieDataBase\\wwwroot\\",
+      "BasePath": "_content/MovieDataBase",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\romad\\source\\repos\\MovieDataBase\\MovieDataBase\\wwwroot\\index.js",
+      "SourceId": "MovieDataBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\romad\\source\\repos\\MovieDataBase\\MovieDataBase\\wwwroot\\",
+      "BasePath": "_content/MovieDataBase",
+      "RelativePath": "index.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.js"
+    },
+    {
+      "Identity": "C:\\Users\\romad\\source\\repos\\MovieDataBase\\MovieDataBase\\wwwroot\\style.css",
+      "SourceId": "MovieDataBase",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\romad\\source\\repos\\MovieDataBase\\MovieDataBase\\wwwroot\\",
+      "BasePath": "_content/MovieDataBase",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}
